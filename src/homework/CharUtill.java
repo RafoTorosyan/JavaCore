@@ -1,6 +1,6 @@
 package homework;
 
-public class CharUtil {
+public class CharUtill {
     public static void main(String[] args) {
         char[] chars = {'j', 'a', 'v', 'a', 'l', 'o', 'v', 'e'};
         System.out.print( chars[3]);
@@ -38,3 +38,5 @@ public class CharUtil {
         System.out.println(text);
     }
 }
+
+
