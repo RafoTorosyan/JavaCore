@@ -1,4 +1,4 @@
-package homework;
+package homework.charutil;
 
 public class CharUtill {
     public static void main(String[] args) {

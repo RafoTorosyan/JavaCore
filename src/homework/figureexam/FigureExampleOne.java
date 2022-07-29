@@ -1,4 +1,4 @@
-package homework;
+package homework.figureexam;
 
 public class FigureExampleOne {
 
